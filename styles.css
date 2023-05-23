@@ -1,0 +1,46 @@
+
+body {
+    color: white;
+    font-family: Arial;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+
+.hair {
+    align-items: center;
+    text-align: center;
+    position: relative;
+    padding: 15px;
+}
+
+
+.img {
+    height: 400px;
+}
+
+.text {
+    height: 30px;
+    width: 250px;
+}
+
+.btn {
+    height: 30px;
+    width: 130px;
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+
+.btn:hover {
+    height: 30px;
+    width: 130px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+
+}
