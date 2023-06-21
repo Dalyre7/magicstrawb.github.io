@@ -1,7 +1,8 @@
 
 
-document.getElementById("btn").onclick = function() {
-    let text = document.getElementById("text").value;
-    window.alert("UH OH. You lost. No stronklebry for u :(")
-    console.log(text)
+
+let donation
+
+document.getElementById('donate').onclick = function() {
+    window.alert("Thank you for your donation")
 }
